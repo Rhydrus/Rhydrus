@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, Hello everyone! I'm Carlos Castelo
+#### I am Biomedical engineer and IA scientists 
+![I am Biomedical engineer and IA scientists ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Rhydrus/Rhydrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carlos Castelo, a technology and science enthusiast. As a biomedical engineer with a passion for innovation, I'm currently immersed in the world of artificial intelligence (AI). I'm currently pursuing a Master's degree in Artificial Intelligence, where I'm delving deep into areas such as machine learning, deep learning, and data science.
 
-Here are some ideas to get you started:
+This space is my platform to share my experiences, ideas, and discoveries in the fascinating world of technology and artificial intelligence. I hope to inspire and connect with other enthusiasts like myself!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Hospital Puerta de Hierro as Biomedical Engineer 
+- 🌱 I’m currently learning IA 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rhydrus)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhydrus)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhydrus&show_icons=true)  
+
