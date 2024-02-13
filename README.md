@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello everyone! I'm Carlos Castelo
 #### I am Biomedical engineer and IA scientists 
-![I am Biomedical engineer and IA scientists ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Biomedical engineer and IA scientists ](https://www.larepublica.net/storage/images/2020/08/04/20200804153632.biomedico.x2.jpg)
 
 I'm Carlos Castelo, a technology and science enthusiast. As a biomedical engineer with a passion for innovation, I'm currently immersed in the world of artificial intelligence (AI). I'm currently pursuing a Master's degree in Artificial Intelligence, where I'm delving deep into areas such as machine learning, deep learning, and data science.
 
