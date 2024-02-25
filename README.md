@@ -1,16 +1,15 @@
-### Hi there 👋, Hello everyone! I'm Carlos Castelo
-#### I am Biomedical engineer and IA scientists 
+### ¡Hola a todos! Soy Carlos Castelo 👋
+#### Soy ingeniero biomédico y científico en IA
 ![I am Biomedical engineer and IA scientists ](https://www.larepublica.net/storage/images/2020/08/04/20200804153632.biomedico.x2.jpg)
 
-I'm Carlos Castelo, a technology and science enthusiast. As a biomedical engineer with a passion for innovation, I'm currently immersed in the world of artificial intelligence (AI). I'm currently pursuing a Master's degree in Artificial Intelligence, where I'm delving deep into areas such as machine learning, deep learning, and data science.
+Soy Carlos Castelo, un entusiasta de la tecnología y la ciencia. Como ingeniero biomédico con pasión por la innovación, actualmente estoy inmerso en el mundo de la inteligencia artificial (IA). Actualmente estoy cursando una Maestría en Inteligencia Artificial, donde me estoy adentrando en áreas como el aprendizaje automático, el aprendizaje profundo y la ciencia de datos.
 
-This space is my platform to share my experiences, ideas, and discoveries in the fascinating world of technology and artificial intelligence. I hope to inspire and connect with other enthusiasts like myself!
+Este espacio es mi plataforma para compartir mis experiencias, ideas y descubrimientos en el fascinante mundo de la tecnología y la inteligencia artificial. ¡Espero inspirar y conectar con otros entusiastas como yo!
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: C# / C++ / Python
 
-- 🔭 I’m currently working on Hospital Puerta de Hierro as Biomedical Engineer 
-- 🌱 I’m currently learning IA 
-
+- 🔭 Actualmente trabajo en el Hospital Puerta de Hierro como Ingeniero Biomédico. 
+- 🌱  Actualmente estoy aprendiendo IA.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rhydrus)  
 
